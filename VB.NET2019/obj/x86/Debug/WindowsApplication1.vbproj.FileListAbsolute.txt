@@ -1,0 +1,15 @@
+C:\Program Files (x86)\Image Thumbnail CP ActiveX x64 Control\Examples\VB.NET2010\bin\Debug\WindowsApplication1.exe
+C:\Program Files (x86)\Image Thumbnail CP ActiveX x64 Control\Examples\VB.NET2010\bin\Debug\WindowsApplication1.pdb
+C:\Program Files (x86)\Image Thumbnail CP ActiveX x64 Control\Examples\VB.NET2010\bin\Debug\WindowsApplication1.xml
+C:\Program Files (x86)\Image Thumbnail CP ActiveX x64 Control\Examples\VB.NET2010\bin\Debug\Interop.IMAGETHUMBNAILCPLib.dll
+C:\Program Files (x86)\Image Thumbnail CP ActiveX x64 Control\Examples\VB.NET2010\bin\Debug\AxInterop.IMAGETHUMBNAILCPLib.dll
+C:\Program Files (x86)\Image Thumbnail CP ActiveX x64 Control\Examples\VB.NET2010\obj\x86\Debug\WindowsApplication1.vbprojAssemblyReference.cache
+C:\Program Files (x86)\Image Thumbnail CP ActiveX x64 Control\Examples\VB.NET2010\obj\x86\Debug\Interop.IMAGETHUMBNAILCPLib.dll
+C:\Program Files (x86)\Image Thumbnail CP ActiveX x64 Control\Examples\VB.NET2010\obj\x86\Debug\AxInterop.IMAGETHUMBNAILCPLib.dll
+C:\Program Files (x86)\Image Thumbnail CP ActiveX x64 Control\Examples\VB.NET2010\obj\x86\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+C:\Program Files (x86)\Image Thumbnail CP ActiveX x64 Control\Examples\VB.NET2010\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Program Files (x86)\Image Thumbnail CP ActiveX x64 Control\Examples\VB.NET2010\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Program Files (x86)\Image Thumbnail CP ActiveX x64 Control\Examples\VB.NET2010\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.cache
+C:\Program Files (x86)\Image Thumbnail CP ActiveX x64 Control\Examples\VB.NET2010\obj\x86\Debug\WindowsApplication1.exe
+C:\Program Files (x86)\Image Thumbnail CP ActiveX x64 Control\Examples\VB.NET2010\obj\x86\Debug\WindowsApplication1.xml
+C:\Program Files (x86)\Image Thumbnail CP ActiveX x64 Control\Examples\VB.NET2010\obj\x86\Debug\WindowsApplication1.pdb
